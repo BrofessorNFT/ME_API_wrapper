@@ -2,7 +2,11 @@ import Image from 'next/image'
 import LaunchButton from '@/components/launchButton';
 import ActivityTab from '@/components/activityTab';
 
-
+import { Metadata } from 'next'
+ 
+export const metadata = {
+  title: 'ME wrapper app',
+}
 
 export default function Home() {
   return (
