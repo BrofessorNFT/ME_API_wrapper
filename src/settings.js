@@ -1,0 +1,1 @@
+export const DEFAULT_COLLECTION = 'froganas'; // Replace 'YourDefaultValue' with your actual default value

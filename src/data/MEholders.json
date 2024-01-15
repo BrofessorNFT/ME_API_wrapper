@@ -1,0 +1,755 @@
+ "symbol": "okay_bears",
+  "totalSupply": 9858,
+  "uniqueHolders": 4531,
+  "tokenHistogram": {
+    "bars": [
+      {
+        "l_val": 1,
+        "hight": 3199
+      },
+      {
+        "l_val": 2,
+        "hight": 1082
+      },
+      {
+        "l_val": 6,
+        "hight": 222
+      },
+      {
+        "l_val": 25,
+        "hight": 17
+      },
+      {
+        "l_val": 50,
+        "hight": 12
+      }
+    ]
+  },
+  "topHolders": [
+    {
+      "tokens": 148,
+      "owner": "CB8Pr9uzrrFw8BFnCqworH1wMa8DsmbSKgUNwVWnDGrL",
+      "buy7d": {
+        "count": 0,
+        "volume": 0
+      },
+      "sell7d": {
+        "count": 0,
+        "volume": 0
+      }
+    },
+
+
+    [
+      {
+        "mintAddress": "8kQYcbEBfXxgfxZVup1Npk85JmQ7xpiefBXctg3ELyG3",
+        "owner": "CB8Pr9uzrrFw8BFnCqworH1wMa8DsmbSKgUNwVWnDGrL",
+        "supply": 1,
+        "collection": "fearless_bull",
+        "collectionName": "Fearless Bulls",
+        "name": "Fearless Bull #1627",
+        "updateAuthority": "2zggV4jZCB9EbE5iyAe5JiUpYyLR6pFB2o2DEtYJ6GEY",
+        "primarySaleHappened": true,
+        "sellerFeeBasisPoints": 400,
+        "image": "https://arweave.net/JqcpU5WZp84-0SEznQ9V9EGHn4FifixDxb6GNXkohXM?ext=jpg",
+        "externalUrl": "https://fearlessbulls.club/",
+        "attributes": [
+          {
+            "trait_type": "Backgrounds",
+            "value": "Web 3 Glitch"
+          },
+          {
+            "trait_type": "Skins",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Horns",
+            "value": "Cattle Market"
+          },
+          {
+            "trait_type": "Mouths",
+            "value": "Bullish Grin"
+          },
+          {
+            "trait_type": "Hair & Hats",
+            "value": "Black Mane"
+          }
+        ],
+        "properties": {
+          "files": [
+            {
+              "uri": "https://arweave.net/JqcpU5WZp84-0SEznQ9V9EGHn4FifixDxb6GNXkohXM?ext=jpg",
+              "type": "image/jpeg"
+            }
+          ],
+          "category": "image",
+          "creators": [
+            {
+              "share": 20,
+              "address": "Ehx5WsnkLBYamXzqCc8xTbvdof2E6GNEc9ZLYTN3KvE3"
+            },
+            {
+              "share": 20,
+              "address": "3SdvcDSNnfCX5ErVUG4QGk6Rd8DFa6n12Gnarj4HarZQ"
+            },
+            {
+              "share": 60,
+              "address": "48XEjXrMBmywJkDUKLo5ixBorQiLeTmyFkkx2HDnGJYY"
+            }
+          ]
+        },
+        "listStatus": "unlisted"
+      },
+      {
+        "mintAddress": "jhPGJvy51dPa8UqTwFVT4ZNZB3Rycpwck54aiVzuj4p",
+        "owner": "CB8Pr9uzrrFw8BFnCqworH1wMa8DsmbSKgUNwVWnDGrL",
+        "supply": 1,
+        "collection": "banx_",
+        "collectionName": "Banx",
+        "name": "Banx #12897",
+        "updateAuthority": "AYqVSa7zbAatGJ4MGbJsVQSrmLT2PqVMMihGyv6sRSXP",
+        "primarySaleHappened": true,
+        "sellerFeeBasisPoints": 420,
+        "image": "https://banxnft.s3.amazonaws.com/images/12897.png",
+        "externalUrl": "https://frakt.xyz",
+        "attributes": [
+          {
+            "trait_type": "player points",
+            "value": "1"
+          },
+          {
+            "trait_type": "partner points",
+            "value": "10"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Yellow"
+          },
+          {
+            "trait_type": "Fur",
+            "value": "Purple"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Grin"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Clubmaster"
+          },
+          {
+            "trait_type": "Head",
+            "value": "Piggybank"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Hawaii shirt (Green)"
+          },
+          {
+            "trait_type": "Tier",
+            "value": "Common"
+          }
+        ],
+        "properties": {
+          "files": [
+            {
+              "uri": "https://banxnft.s3.amazonaws.com/images/12897.png",
+              "type": "image/png"
+            }
+          ],
+          "category": "image",
+          "creators": [
+            {
+              "share": 100,
+              "address": "bnxZZLyvcezhYxRzBwdw7duK9Q9DN26Jd9YZhizTnwg"
+            }
+          ]
+        },
+        "listStatus": "unlisted"
+      },
+      {
+        "mintAddress": "H38axwu5qfGBheJBRAZPXLiuYFgeCaBrDKZTVtqHvAt1",
+        "owner": "CB8Pr9uzrrFw8BFnCqworH1wMa8DsmbSKgUNwVWnDGrL",
+        "supply": 1,
+        "collection": "banx_",
+        "collectionName": "Banx",
+        "name": "Banx #18265",
+        "updateAuthority": "AYqVSa7zbAatGJ4MGbJsVQSrmLT2PqVMMihGyv6sRSXP",
+        "primarySaleHappened": true,
+        "sellerFeeBasisPoints": 420,
+        "image": "https://banxnft.s3.amazonaws.com/images/18265.png",
+        "externalUrl": "https://frakt.xyz",
+        "attributes": [
+          {
+            "trait_type": "partner points",
+            "value": 13
+          },
+          {
+            "trait_type": "player points",
+            "value": 1
+          },
+          {
+            "trait_type": "Background",
+            "value": "Navy"
+          },
+          {
+            "trait_type": "Fur",
+            "value": "Pink"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Cigar"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Wink"
+          },
+          {
+            "trait_type": "Head",
+            "value": "Punk hair (Black)"
+          },
+          {
+            "trait_type": "Body",
+            "value": "None"
+          },
+          {
+            "trait_type": "Tier",
+            "value": "Common"
+          }
+        ],
+        "properties": {
+          "files": [
+            {
+              "uri": "https://banxnft.s3.amazonaws.com/images/18265.png",
+              "type": "image/png"
+            }
+          ],
+          "category": "image",
+          "creators": [
+            {
+              "share": 100,
+              "address": "bnxZZLyvcezhYxRzBwdw7duK9Q9DN26Jd9YZhizTnwg"
+            }
+          ]
+        },
+        "listStatus": "unlisted"
+      },
+      {
+        "mintAddress": "HwtPHm8kVHfQdgHrNH2buatjR8q6yDZJJT2MAdFom56K",
+        "owner": "CB8Pr9uzrrFw8BFnCqworH1wMa8DsmbSKgUNwVWnDGrL",
+        "supply": 1,
+        "collection": "banx_",
+        "collectionName": "Banx",
+        "name": "Banx #15238",
+        "updateAuthority": "AYqVSa7zbAatGJ4MGbJsVQSrmLT2PqVMMihGyv6sRSXP",
+        "primarySaleHappened": true,
+        "sellerFeeBasisPoints": 420,
+        "image": "https://banxnft.s3.amazonaws.com/images/15238.png",
+        "externalUrl": "https://frakt.xyz",
+        "attributes": [
+          {
+            "trait_type": "player points",
+            "value": "1"
+          },
+          {
+            "trait_type": "partner points",
+            "value": "13"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Green"
+          },
+          {
+            "trait_type": "Fur",
+            "value": "Yellow"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Laugh"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Scheming"
+          },
+          {
+            "trait_type": "Head",
+            "value": "McDonalds cap"
+          },
+          {
+            "trait_type": "Body",
+            "value": "IT nerd"
+          },
+          {
+            "trait_type": "Tier",
+            "value": "Common"
+          }
+        ],
+        "properties": {
+          "files": [
+            {
+              "uri": "https://banxnft.s3.amazonaws.com/images/15238.png",
+              "type": "image/png"
+            }
+          ],
+          "category": "image",
+          "creators": [
+            {
+              "share": 100,
+              "address": "bnxZZLyvcezhYxRzBwdw7duK9Q9DN26Jd9YZhizTnwg"
+            }
+          ]
+        },
+        "listStatus": "unlisted"
+      },
+      {
+        "mintAddress": "HE1jF13nq82txp5v38hjh1nSFA2x43jgF6rxM5g8YyhA",
+        "owner": "CB8Pr9uzrrFw8BFnCqworH1wMa8DsmbSKgUNwVWnDGrL",
+        "supply": 1,
+        "collection": "banx_",
+        "collectionName": "Banx",
+        "name": "Banx #4853",
+        "updateAuthority": "AYqVSa7zbAatGJ4MGbJsVQSrmLT2PqVMMihGyv6sRSXP",
+        "primarySaleHappened": true,
+        "sellerFeeBasisPoints": 420,
+        "image": "https://banxnft.s3.amazonaws.com/images/4853.png",
+        "externalUrl": "https://frakt.xyz",
+        "attributes": [
+          {
+            "trait_type": "player points",
+            "value": "2"
+          },
+          {
+            "trait_type": "partner points",
+            "value": "29"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Green"
+          },
+          {
+            "trait_type": "Fur",
+            "value": "Pink"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Laugh"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Heart glasses"
+          },
+          {
+            "trait_type": "Head",
+            "value": "Roman helmet"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Basketball jersey (Red)"
+          },
+          {
+            "trait_type": "Tier",
+            "value": "Uncommon"
+          }
+        ],
+        "properties": {
+          "files": [
+            {
+              "uri": "https://banxnft.s3.amazonaws.com/images/4853.png",
+              "type": "image/png"
+            }
+          ],
+          "category": "image",
+          "creators": [
+            {
+              "share": 100,
+              "address": "bnxZZLyvcezhYxRzBwdw7duK9Q9DN26Jd9YZhizTnwg"
+            }
+          ]
+        },
+        "listStatus": "unlisted"
+      },
+      {
+        "mintAddress": "EytYMhYQXuPQzqxQr8XULrnbt4xZ9m2J4XSuBxRJxLXy",
+        "owner": "CB8Pr9uzrrFw8BFnCqworH1wMa8DsmbSKgUNwVWnDGrL",
+        "supply": 1,
+        "collection": "banx_",
+        "collectionName": "Banx",
+        "name": "Banx #18357",
+        "updateAuthority": "AYqVSa7zbAatGJ4MGbJsVQSrmLT2PqVMMihGyv6sRSXP",
+        "primarySaleHappened": true,
+        "sellerFeeBasisPoints": 420,
+        "image": "https://banxnft.s3.amazonaws.com/images/18357.png",
+        "externalUrl": "https://frakt.xyz",
+        "attributes": [
+          {
+            "trait_type": "player points",
+            "value": "1"
+          },
+          {
+            "trait_type": "partner points",
+            "value": "13"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Yellow"
+          },
+          {
+            "trait_type": "Fur",
+            "value": "White"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Smile"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Heart glasses"
+          },
+          {
+            "trait_type": "Head",
+            "value": "None"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Prince jacket"
+          },
+          {
+            "trait_type": "Tier",
+            "value": "Common"
+          }
+        ],
+        "properties": {
+          "files": [
+            {
+              "uri": "https://banxnft.s3.amazonaws.com/images/18357.png",
+              "type": "image/png"
+            }
+          ],
+          "category": "image",
+          "creators": [
+            {
+              "share": 100,
+              "address": "bnxZZLyvcezhYxRzBwdw7duK9Q9DN26Jd9YZhizTnwg"
+            }
+          ]
+        },
+        "listStatus": "unlisted"
+      },
+      {
+        "mintAddress": "EqofzWu4L5Lpd2GpkPAKkHJzAJkQQwnfHqzmx7Mc6JM7",
+        "owner": "CB8Pr9uzrrFw8BFnCqworH1wMa8DsmbSKgUNwVWnDGrL",
+        "supply": 1,
+        "collection": "banx_",
+        "collectionName": "Banx",
+        "name": "Banx #14812",
+        "updateAuthority": "AYqVSa7zbAatGJ4MGbJsVQSrmLT2PqVMMihGyv6sRSXP",
+        "primarySaleHappened": true,
+        "sellerFeeBasisPoints": 420,
+        "image": "https://banxnft.s3.amazonaws.com/images/14812.png",
+        "externalUrl": "https://frakt.xyz",
+        "attributes": [
+          {
+            "trait_type": "player points",
+            "value": "1"
+          },
+          {
+            "trait_type": "partner points",
+            "value": "10"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Red"
+          },
+          {
+            "trait_type": "Fur",
+            "value": "Orange"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Bubble gum"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Wayfarers"
+          },
+          {
+            "trait_type": "Head",
+            "value": "Naruto headband"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Trooper"
+          },
+          {
+            "trait_type": "Tier",
+            "value": "Common"
+          }
+        ],
+        "properties": {
+          "files": [
+            {
+              "uri": "https://banxnft.s3.amazonaws.com/images/14812.png",
+              "type": "image/png"
+            }
+          ],
+          "category": "image",
+          "creators": [
+            {
+              "share": 100,
+              "address": "bnxZZLyvcezhYxRzBwdw7duK9Q9DN26Jd9YZhizTnwg"
+            }
+          ]
+        },
+        "listStatus": "unlisted"
+      },
+      {
+        "mintAddress": "E9yF1zhKrfw9zWH2NjsGTyk6vpMcapj3MoVsU6zub5kv",
+        "owner": "CB8Pr9uzrrFw8BFnCqworH1wMa8DsmbSKgUNwVWnDGrL",
+        "supply": 1,
+        "collection": "banx_",
+        "collectionName": "Banx",
+        "name": "Banx #14091",
+        "updateAuthority": "AYqVSa7zbAatGJ4MGbJsVQSrmLT2PqVMMihGyv6sRSXP",
+        "primarySaleHappened": true,
+        "sellerFeeBasisPoints": 420,
+        "image": "https://banxnft.s3.amazonaws.com/images/14091.png",
+        "externalUrl": "https://frakt.xyz",
+        "attributes": [
+          {
+            "trait_type": "player points",
+            "value": "1"
+          },
+          {
+            "trait_type": "partner points",
+            "value": "10"
+          },
+          {
+            "trait_type": "Background",
+            "value": "White"
+          },
+          {
+            "trait_type": "Fur",
+            "value": "Purple"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Bubble gum"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Serious"
+          },
+          {
+            "trait_type": "Head",
+            "value": "Rasta"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Barbarian"
+          },
+          {
+            "trait_type": "Tier",
+            "value": "Common"
+          }
+        ],
+        "properties": {
+          "files": [
+            {
+              "uri": "https://banxnft.s3.amazonaws.com/images/14091.png",
+              "type": "image/png"
+            }
+          ],
+          "category": "image",
+          "creators": [
+            {
+              "share": 100,
+              "address": "bnxZZLyvcezhYxRzBwdw7duK9Q9DN26Jd9YZhizTnwg"
+            }
+          ]
+        },
+        "listStatus": "unlisted"
+      },
+      {
+        "mintAddress": "Gka3GtWC4RiJgPrVHk6QKuNKNQt2JB8hGayRVvpjT7Ly",
+        "owner": "CB8Pr9uzrrFw8BFnCqworH1wMa8DsmbSKgUNwVWnDGrL",
+        "supply": 1,
+        "collection": "banx_",
+        "collectionName": "Banx",
+        "name": "Banx #13175",
+        "updateAuthority": "AYqVSa7zbAatGJ4MGbJsVQSrmLT2PqVMMihGyv6sRSXP",
+        "primarySaleHappened": true,
+        "sellerFeeBasisPoints": 420,
+        "image": "https://banxnft.s3.amazonaws.com/images/13175.png",
+        "externalUrl": "https://frakt.xyz",
+        "attributes": [
+          {
+            "trait_type": "player points",
+            "value": "1"
+          },
+          {
+            "trait_type": "partner points",
+            "value": "10"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Blue"
+          },
+          {
+            "trait_type": "Fur",
+            "value": "Blue"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "WTF"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Bored"
+          },
+          {
+            "trait_type": "Head",
+            "value": "Earring"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Sailor jacket"
+          },
+          {
+            "trait_type": "Tier",
+            "value": "Common"
+          }
+        ],
+        "properties": {
+          "files": [
+            {
+              "uri": "https://banxnft.s3.amazonaws.com/images/13175.png",
+              "type": "image/png"
+            }
+          ],
+          "category": "image",
+          "creators": [
+            {
+              "share": 100,
+              "address": "bnxZZLyvcezhYxRzBwdw7duK9Q9DN26Jd9YZhizTnwg"
+            }
+          ]
+        },
+        "listStatus": "unlisted"
+      },
+      {
+        "mintAddress": "DKCxUnB7gFdp8B86hYAiZR8anURfh8DiaeMPmBR3ceAj",
+        "owner": "CB8Pr9uzrrFw8BFnCqworH1wMa8DsmbSKgUNwVWnDGrL",
+        "supply": 1,
+        "collection": "banx_",
+        "collectionName": "Banx",
+        "name": "Banx #17675",
+        "updateAuthority": "AYqVSa7zbAatGJ4MGbJsVQSrmLT2PqVMMihGyv6sRSXP",
+        "primarySaleHappened": true,
+        "sellerFeeBasisPoints": 420,
+        "image": "https://banxnft.s3.amazonaws.com/images/17675.png",
+        "externalUrl": "https://frakt.xyz",
+        "attributes": [
+          {
+            "trait_type": "player points",
+            "value": "1"
+          },
+          {
+            "trait_type": "partner points",
+            "value": "13"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Pink"
+          },
+          {
+            "trait_type": "Fur",
+            "value": "Purple"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Scream"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Angry"
+          },
+          {
+            "trait_type": "Head",
+            "value": "None"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Dino jumpsuit"
+          },
+          {
+            "trait_type": "Tier",
+            "value": "Common"
+          }
+        ],
+        "properties": {
+          "files": [
+            {
+              "uri": "https://banxnft.s3.amazonaws.com/images/17675.png",
+              "type": "image/png"
+            }
+          ],
+          "category": "image",
+          "creators": [
+            {
+              "share": 100,
+              "address": "bnxZZLyvcezhYxRzBwdw7duK9Q9DN26Jd9YZhizTnwg"
+            }
+          ]
+        },
+        "listStatus": "unlisted"
+      },
+      {
+        "mintAddress": "DgrFBQPAVkevKijujnFk3LPkf7WHPbo1Eb3M89hXehYA",
+        "owner": "CB8Pr9uzrrFw8BFnCqworH1wMa8DsmbSKgUNwVWnDGrL",
+        "supply": 1,
+        "collection": "banx_",
+        "collectionName": "Banx",
+        "name": "Banx #19425",
+        "updateAuthority": "AYqVSa7zbAatGJ4MGbJsVQSrmLT2PqVMMihGyv6sRSXP",
+        "primarySaleHappened": true,
+        "sellerFeeBasisPoints": 420,
+        "image": "https://banxnft.s3.amazonaws.com/images/19425.png",
+        "externalUrl": "https://frakt.xyz",
+        "attributes": [
+          {
+            "trait_type": "player points",
+            "value": "1"
+          },
+          {
+            "trait_type": "partner points",
+            "value": "13"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Green"
+          },
+          {
+            "trait_type": "Fur",
+            "value": "Green"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Wheat straw"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Vipers"
+          },
+          {
+            "trait_type": "Head",
+            "value": "None"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Pirate captain"
+          },
+          {
+            "trait_type": "Tier",
+            "value": "Common"
+          }
+        ],

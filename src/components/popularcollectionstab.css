@@ -1,0 +1,19 @@
+/* Custom scrollbar styles */
+.scrollable-container::-webkit-scrollbar {
+    height: 8px; /* Height of the scrollbar */
+}
+
+.scrollable-container::-webkit-scrollbar-thumb {
+    background-color: #4B5563; /* Color of the scroll thumb */
+    border-radius: 4px; /* Rounded corners of the scroll thumb */
+}
+
+.scrollable-container::-webkit-scrollbar-track {
+    background-color: #F3F4F6; /* Color of the scrollbar track */
+}
+
+/* Firefox */
+.scrollable-container {
+    scrollbar-width: thin;
+    scrollbar-color: #4B5563 #F3F4F6;
+}

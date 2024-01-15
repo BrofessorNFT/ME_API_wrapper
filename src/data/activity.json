@@ -1,0 +1,2218 @@
+[
+  {
+    "signature": "34eHkiswikZ55cA7Sp8ZzDgCzKEMLws9n5k5qRj9HLpK3NjPYbgKBtDimcYQeeZhZphsvqpwxmNowUPxyfwCJeZ1",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "7yG6VJTpHc3ddUDHkUhYg8z9hT15uqhZsEZFKWhx1R4x",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668832,
+    "blockTime": 1704296637,
+    "buyerReferral": "",
+    "seller": "2CdYnw7yzhSWzDk8guKLMP86pztSjP5zQMkqud2oZQ5B",
+    "sellerReferral": "",
+    "price": 0.03,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "30000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/51"
+  },
+  {
+    "signature": "4dcSnL8WZrjCULbM6fruNu9eNTDLg7xCsq3uYKDjLuXPe2BKbxg9eonsRbDEnTgMKhpR7tiedzWaRdXgsDodRUsd",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "3nH9QA4SbgArDZVySJBP5P93tLdY2PzNAGrZSBqeYNJE",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668830,
+    "blockTime": 1704296636,
+    "buyerReferral": "",
+    "seller": "6rE9jCuc4bCATdkB6rhEu5t6CjeLL7qxVgadikZgs5uG",
+    "sellerReferral": "",
+    "price": 0.018,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "18000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/2186"
+  },
+  {
+    "signature": "4NVGLMSvjHNS6VYEqXdxoodCXavVk9rxrevByBXtFssoJGv1rPUPZ7sPp3xG7YsF4v9G4mT1JNi2ptKedBgkpDLY",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "6QTiVmPB2BadgRuvq8XcYoVYjdQhgJJ2m6PG25UKquY2",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668829,
+    "blockTime": 1704296636,
+    "buyerReferral": "",
+    "seller": "D4bD9ZkHGR1gMwf6r23VH1cJomTAsLW1FZEq6ncbVtDG",
+    "sellerReferral": "",
+    "price": 0.09,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "90000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://gateway.pinit.io/ipfs/QmSYF9Cdn7KQ4StRoBx6rsDwkdWhfZvsAapL59Lexo7iPK/0"
+  },
+  {
+    "signature": "3UsRJvo6d5GhTMmo9axc6dh2dytYCPPd6aG9JAZh6CLvrduHRnCLLAsxdAdk5niEfyWLEvqbhLW9rQsRGecS9VH1",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "6vuLJzG4DCfk6VuAjLcuxNH322Wy1CqbSZem7EjneMKd",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668826,
+    "blockTime": 1704296635,
+    "buyerReferral": "",
+    "seller": "2CdYnw7yzhSWzDk8guKLMP86pztSjP5zQMkqud2oZQ5B",
+    "sellerReferral": "",
+    "price": 0.03,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "30000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/1690"
+  },
+  {
+    "signature": "2NG9JY2icCkXbFNLfNsmeipJb5rZ9Cb4HneFLwmtmP5Fnfktc6aBgYBfdwndCiFTcQ8RuT17Pe8vfYv8zU6KYnnh",
+    "type": "buyNow",
+    "source": "tensortrade",
+    "tokenMint": "9ekVVEGxVjheWnyyR5TguNeXo8eT44QMJQ9EqGe2yB9M",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668823,
+    "blockTime": 1704296633,
+    "buyer": "Ug1uAepGn2WucByobucWcdJEBdcZbGzAbWwY9jpvBLV",
+    "buyerReferral": "",
+    "seller": "Ebq6uykqjCwBConLNBrTaUG7EG38YDJQLgFv9SU7iLXM",
+    "sellerReferral": "",
+    "price": 0.01935,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "19350000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/944"
+  },
+  {
+    "signature": "27W9w4ze9qiWEp7AtH8J4aB35spQpwPtb31ziFwbcmB2FCE2erbK17XrLPGmwP1iqZXZFkq7LUwon8G9h7QUwcvX",
+    "type": "buyNow",
+    "source": "tensortrade",
+    "tokenMint": "BPTbbs15iq7VvqosM7Z5kn5xiVdiPw7QafEYRdu8ShRu",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668822,
+    "blockTime": 1704296632,
+    "buyer": "64o2NsKptCmKQG8kCx6beNpkyYhCFhQEziiYtUAq6DsW",
+    "buyerReferral": "",
+    "seller": "Ebq6uykqjCwBConLNBrTaUG7EG38YDJQLgFv9SU7iLXM",
+    "sellerReferral": "",
+    "price": 0.01935,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "19350000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/1122"
+  },
+  {
+    "signature": "4bwP8TV397ooGYXTJRGSs8Z7XkYzS5F6KKJewGeLh2h7JtkNhfz58rKNpbUQ4JUgRHKnS2VyW3BJjSeNMTGniQfL",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "5YRaeAxp1ybmv3JYsoEJ1rKHLiBd3JPMEq7tJWyZcqEo",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668821,
+    "blockTime": 1704296632,
+    "buyerReferral": "",
+    "seller": "HNk6X2Yia2CCHtKesaoLNwmr1MLQwg1WQnLKTa2nF6WB",
+    "sellerReferral": "",
+    "price": 0.019,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "19000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/1751"
+  },
+  {
+    "signature": "59rJ7tH87tz6NwWXyMXe8kqyPH4C4fEKaahkvvsHT8HPss8ymrM5cLAU9w1YZZkMDkhJLxbyt1N1ecq51N6vxRnv",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "8rNrs1dEeZZZui78xwL4CSBJxjRT5GnMfPuDnV3noJzJ",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668820,
+    "blockTime": 1704296632,
+    "buyerReferral": "",
+    "seller": "2CdYnw7yzhSWzDk8guKLMP86pztSjP5zQMkqud2oZQ5B",
+    "sellerReferral": "",
+    "price": 0.03,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "30000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/2032"
+  },
+  {
+    "signature": "2fCuLAVzPsGPxcUxSV7JXjZ4GXCoLSVCUhX6Rggwed2ixiVMoHEFhV1UKbux97k8JAc5H1AeUVpfoE8zu83LwURs",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "5XS2eMQyWxxNNrvq3Nhy65ZVrnE4K7n5iBbZPimQYkoM",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668820,
+    "blockTime": 1704296632,
+    "buyerReferral": "",
+    "seller": "2CdYnw7yzhSWzDk8guKLMP86pztSjP5zQMkqud2oZQ5B",
+    "sellerReferral": "",
+    "price": 0.03,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "30000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/621"
+  },
+  {
+    "signature": "eSyV8n62isCfdDQHJjr1KMdvaouY8ij82FdKkbJseVBByTykM6NZ2cLa5MNyePYWSW9Gn2hzsQATYqBJnnkommd",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "9Bw466fSRFieZZVN5Vmf6fvYP8SUFyo2wVYyhVeQY4BU",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668821,
+    "blockTime": 1704296632,
+    "buyerReferral": "",
+    "seller": "GFcP16qLZcFyxrePdJhTjhgrvBkQGgo3TCZ73VCXkRLh",
+    "sellerReferral": "",
+    "price": 0.02,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "20000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/2188"
+  },
+  {
+    "signature": "3Xz78kYTfM1X9ZoXPHAP6VKNi5y1pQzncei1Lcf43hHy8aGNhsxmaDLMB3NvepX7kZrb2L3SX7qaws2wLcTFJh73",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "J8ASBz1UWqChTbofmJQP5m47unNnV9QBWb1ZNBZtdd9v",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668822,
+    "blockTime": 1704296632,
+    "buyerReferral": "",
+    "seller": "42wzV21b13NY1pJTo2BdU5ZmAuYPr4WndL8XSnvuh4NH",
+    "sellerReferral": "",
+    "price": 0.05,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "50000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/1984"
+  },
+  {
+    "signature": "4rqzAjGo9SLiS3FpNL1EYQTHsJFpV1kx7K6Sa7xAv2ZEhjNdV3NA8qVMKk7oqhwafTynYMEL9VFGefKUBrLDUCV7",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "4BpNL6YsyBe9MdsWnvDn7Zt2S3bLbQXXFGGSGR61d8Ku",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668807,
+    "blockTime": 1704296627,
+    "buyerReferral": "",
+    "seller": "9457yS3afJuNSp6uNoewCUBuUQJ7wgi1ginYLh9KJike",
+    "sellerReferral": "",
+    "price": 0.04,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "40000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/2193"
+  },
+  {
+    "signature": "pwJYfgR2bpxUBqaYwKq31druP3rRcGARntMMEsSiK9Qm1KXvx6zUY2EkLV7tkCedhGaGghpqcq3t5CHE5EUGk2Y",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "GzXLsLaU1uwvoyfKLShhoBF2xhafzhkwhNhvzDWqYW2v",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668800,
+    "blockTime": 1704296624,
+    "buyerReferral": "",
+    "seller": "8T5UHhwX3xxA9EhzosxwGhNWuvXbL7M62Mikq1PYGLGV",
+    "sellerReferral": "",
+    "price": 0.18,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "180000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/1068"
+  },
+  {
+    "signature": "2QvZo9qQRw61brSNFExmNR63ceNEA15vE4qTAfoEvTF3mRttuQHkhx5GVrfTNqLjgjoJ7xb37qrBm78ueWeQ8w12",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "3UZL8Npidug79ABh9srGKh2M8cL1LxBSsYC5HtxkXuhd",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668801,
+    "blockTime": 1704296624,
+    "buyerReferral": "",
+    "seller": "4vUWaFTnF4zNg7LS25Sf98z8ikJvEEvsRMWu1H2QJRPi",
+    "sellerReferral": "",
+    "price": 0.03,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "30000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/587"
+  },
+  {
+    "signature": "3TTdKYKHArviNNBzXmfTSSmrHffYH9w9Mwk2Z9DXpSpXfpehraMkE1tvCPBDu12N66uD4NgBwSqjnGAc983zPgRc",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "5MfGnkVsba5Wf67fD3ejfzjD36EAa6zrqmWAgg6sPTis",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668798,
+    "blockTime": 1704296623,
+    "buyerReferral": "",
+    "seller": "7yPKkCSVDVmxKtpSm9iHtigU9LRqt5RapLCedqSh5Gom",
+    "sellerReferral": "",
+    "price": 0.33,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "330000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/1825"
+  },
+  {
+    "signature": "2yzersHuhbc8ayfhwWzvArkd16Gw2217gfRM25w1rhZygpZwz7qehM3yhb3SZtCNcYGPUFvZTPXf1rJX9XmsRL3G",
+    "type": "buyNow",
+    "source": "tensortrade",
+    "tokenMint": "J9GFywpp6mrwT8u6cLN8hPmtwkLgEhGomL7bNFfJx7Nd",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668797,
+    "blockTime": 1704296623,
+    "buyer": "bneopmunb9RnN2uJW5YJsAgqK7G4e7QhfWjHdvdtBAy",
+    "buyerReferral": "",
+    "seller": "Ebq6uykqjCwBConLNBrTaUG7EG38YDJQLgFv9SU7iLXM",
+    "sellerReferral": "",
+    "price": 0.01935,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "19350000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/962"
+  },
+  {
+    "signature": "3bZhtKoHxkH6R8Xu4TUT3RBkzUSrH51yu4K4EQ44UFnHtf1GFcJuXpyfCK5YKqPqBZbNaWxMhBZCfnEhz8eXyNTm",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "9jowXTmqUmkTs1FzdvCCMxqhiSMh8MhAfwLMuor27yK5",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668796,
+    "blockTime": 1704296622,
+    "buyerReferral": "",
+    "seller": "BeAQk6VvNsFVijFedSNFiGjaLpw38L1mmJ2EWeTwXPiS",
+    "sellerReferral": "",
+    "price": 0.03,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "30000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/157"
+  },
+  {
+    "signature": "4T53VcYG33f6XbSo26iw4DJrLQBcxCUabT17KKuNyR9YgwqwDDtuN6W4fiQbwhxXrANnHekGujPbVWBv52HmySb9",
+    "type": "buyNow",
+    "source": "magiceden_v2",
+    "tokenMint": "DjAiQP4dg5WARf1ca3UfbVT6FaTg5u9MRpcaTNjijFBq",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668791,
+    "blockTime": 1704296620,
+    "buyer": "FfXZ3QLJp6a8ZEoiuVndx1tf3xxz3umdrqhb7Mf3qETR",
+    "buyerReferral": "",
+    "seller": "4CmTezzfao2g51jrEMuNEJJThYGda8uJ4gQkrJio8pjC",
+    "sellerReferral": "",
+    "price": 0.02,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "20000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/454"
+  },
+  {
+    "signature": "3D5qfwjFVfA9pT4cRGrH2uNafQtvv91z7t6x59q6bVPm5J5u9bMafc5WzNx9fV6qS8iVNeinBDE5MtLrdo7u86tk",
+    "type": "buyNow",
+    "source": "magiceden_v2",
+    "tokenMint": "GwHo1c3EAjd34cefSRqo1iGbBhEtopNFNNXAzF7Vmzm9",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668791,
+    "blockTime": 1704296620,
+    "buyer": "FfXZ3QLJp6a8ZEoiuVndx1tf3xxz3umdrqhb7Mf3qETR",
+    "buyerReferral": "",
+    "seller": "BiBiazvNGk4by53RvYYapqxLxh4vJ6DHCdyxrPoiHZ5q",
+    "sellerReferral": "",
+    "price": 0.02,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "20000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/1293"
+  },
+  {
+    "signature": "3D5qfwjFVfA9pT4cRGrH2uNafQtvv91z7t6x59q6bVPm5J5u9bMafc5WzNx9fV6qS8iVNeinBDE5MtLrdo7u86tk",
+    "type": "bid",
+    "source": "magiceden_v2",
+    "tokenMint": "GwHo1c3EAjd34cefSRqo1iGbBhEtopNFNNXAzF7Vmzm9",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668791,
+    "blockTime": 1704296620,
+    "buyer": "FfXZ3QLJp6a8ZEoiuVndx1tf3xxz3umdrqhb7Mf3qETR",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0.02,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "20000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/1293"
+  },
+  {
+    "signature": "4T53VcYG33f6XbSo26iw4DJrLQBcxCUabT17KKuNyR9YgwqwDDtuN6W4fiQbwhxXrANnHekGujPbVWBv52HmySb9",
+    "type": "bid",
+    "source": "magiceden_v2",
+    "tokenMint": "DjAiQP4dg5WARf1ca3UfbVT6FaTg5u9MRpcaTNjijFBq",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668791,
+    "blockTime": 1704296620,
+    "buyer": "FfXZ3QLJp6a8ZEoiuVndx1tf3xxz3umdrqhb7Mf3qETR",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0.02,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "20000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/454"
+  },
+  {
+    "signature": "5RAkFe6gqbxCGdDr6Sg8kHquU2BNvy8qDcA5xnYSNKJvtcSMoMsnqpcgBQ7ibxoJ6QXxirXgu5EwVKXGVzrcCK49",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "9ekVVEGxVjheWnyyR5TguNeXo8eT44QMJQ9EqGe2yB9M",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668785,
+    "blockTime": 1704296617,
+    "buyerReferral": "",
+    "seller": "Ebq6uykqjCwBConLNBrTaUG7EG38YDJQLgFv9SU7iLXM",
+    "sellerReferral": "",
+    "price": 0.018,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "18000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/944"
+  },
+  {
+    "signature": "5ciDEcPWZQFNCc8SikrPnbLirgK15tJjfHJE6pzbWs2v1iwzvDgaFMedpWBn5C1h3Pu3ZKWB9J7wEja7NvUr9uu1",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "6ayDipSteuC5hwd6wpLJZC6YcmtMHNjYWh1WUDEgShx3",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668784,
+    "blockTime": 1704296617,
+    "buyerReferral": "",
+    "seller": "99tHJZWeZLKaJH4u3xkWYef23cV9He5dkyQePC31eyNB",
+    "sellerReferral": "",
+    "price": 0.3,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "300000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/1163"
+  },
+  {
+    "signature": "wfLTu8tKL9EXZWNkShv4aqg7Ky6XAUtHDGZa4ewWDhWCRdYR5So4pWB4ezo3SZqVbqtk3f5puFVrm8tJhBVY9oa",
+    "type": "buyNow",
+    "source": "tensortrade",
+    "tokenMint": "HdXUqTEmhn11KWXd1UGsbjW48a2fmrjt1XA8SxCic8Mm",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668783,
+    "blockTime": 1704296616,
+    "buyer": "EqSWuvR6vscYszWbRzRgMyCdMa5NPLzM7Gwgba8nTph3",
+    "buyerReferral": "",
+    "seller": "2QRFizw5AeK3wirda6NS3WR7jwgTwr9mSL8XTX8Dyt5X",
+    "sellerReferral": "",
+    "price": 0.01935,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "19350000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/1154"
+  },
+  {
+    "signature": "4kE19H8qdQsw1DYqooGXViA3TnD1G9FHrWKzF5nX3YcqBkYKqzALwRQYNp1iFMS3eT2Gt5cKQdsgTXpzdmSkpMRT",
+    "type": "buyNow",
+    "source": "magiceden_v2",
+    "tokenMint": "DP6Miqax412AF9Avb1GRkQNFaQgmX7yLyTuar1HxWQPR",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668779,
+    "blockTime": 1704296615,
+    "buyer": "HB11JGTX1Jx7xvSrSdJgfSKeeAfjDFeGnJC5YBw7zRfp",
+    "buyerReferral": "",
+    "seller": "EqVEcEMMWhLZgwvtTFmfRyWdFCKmRk8MpYKoZAdghFFb",
+    "sellerReferral": "",
+    "price": 0.0198,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "19800000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/167"
+  },
+  {
+    "signature": "4kE19H8qdQsw1DYqooGXViA3TnD1G9FHrWKzF5nX3YcqBkYKqzALwRQYNp1iFMS3eT2Gt5cKQdsgTXpzdmSkpMRT",
+    "type": "bid",
+    "source": "magiceden_v2",
+    "tokenMint": "DP6Miqax412AF9Avb1GRkQNFaQgmX7yLyTuar1HxWQPR",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668779,
+    "blockTime": 1704296615,
+    "buyer": "HB11JGTX1Jx7xvSrSdJgfSKeeAfjDFeGnJC5YBw7zRfp",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0.0198,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "19800000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/167"
+  },
+  {
+    "signature": "5h1tZ8gJV4LkXM273tEGBRKvgWULBBXtyrUnxj5Gc7nrzcwWfMFGkeU6FZhK8kDx2ieAZAN1A6mAcv1F3PRA6UZd",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "BPTbbs15iq7VvqosM7Z5kn5xiVdiPw7QafEYRdu8ShRu",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668779,
+    "blockTime": 1704296615,
+    "buyerReferral": "",
+    "seller": "Ebq6uykqjCwBConLNBrTaUG7EG38YDJQLgFv9SU7iLXM",
+    "sellerReferral": "",
+    "price": 0.018,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "18000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/1122"
+  },
+  {
+    "signature": "2n4ixAgBMrC4uD8YqTR28hRfofSiudFLUSG1uk55CYi72gRQTbsdwxEn4A9gvCtAZo7R8GpUPwUp2jWB4SfLQT5n",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "9mEhZ76RCpVdoKnWpLWYFQhBbuJrPbkpf8WxquQ6cu69",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668775,
+    "blockTime": 1704296613,
+    "buyerReferral": "",
+    "seller": "4vUWaFTnF4zNg7LS25Sf98z8ikJvEEvsRMWu1H2QJRPi",
+    "sellerReferral": "",
+    "price": 0.03,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "30000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/543"
+  },
+  {
+    "signature": "58hhG3P1gc6GYFoVYG6cfhnmgQ522ZqW2GQyT8HSFaFeMb4C7w5MmuAWPXzVmofEdkmygzuRdRV4rvC6rJBB1xtU",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "3HTtxR9u7Jiw5v1TFbMz2G3YrgzzwsmYgHMAC7L4Qqof",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668777,
+    "blockTime": 1704296613,
+    "buyerReferral": "",
+    "seller": "GRRnVpCxrHegB65grMopwtseGbD2TaGmYhzzPWX4SaoB",
+    "sellerReferral": "",
+    "price": 0.019,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "19000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/1695"
+  },
+  {
+    "signature": "4yCdWGkXddRvnSp3AHEXY81yMxkfyWnfB4EonwwYjAj7a8ihEDUztub2FHKonohnGmKAoYQAMjzpcZMyot4hxVZS",
+    "type": "buyNow",
+    "source": "tensortrade",
+    "tokenMint": "2wJY92dyUZWbuRtRc7XMy6sv9e94xa4CcBpbAd5KK3kt",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668774,
+    "blockTime": 1704296612,
+    "buyer": "5z6T69bP4wjHnSXGpCttcbnC3KKbyr71Pag2SGnM7c2o",
+    "buyerReferral": "",
+    "seller": "GRRnVpCxrHegB65grMopwtseGbD2TaGmYhzzPWX4SaoB",
+    "sellerReferral": "",
+    "price": 0.020425,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "20425000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/1443"
+  },
+  {
+    "signature": "38WNmVSZaf119bqvUTrK7d9K5kgqrb5puu6p8zWy9Hk5yinApqhLvXLCDkkyV9kbYPT5jTcc4CpFXepg7Hb2uaEA",
+    "type": "buyNow",
+    "source": "magiceden_v2",
+    "tokenMint": "CqHdRz1YtdcCtcC1iBak431mUnXuDAF2QwZzBFVDD4ce",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668773,
+    "blockTime": 1704296612,
+    "buyer": "HB11JGTX1Jx7xvSrSdJgfSKeeAfjDFeGnJC5YBw7zRfp",
+    "buyerReferral": "",
+    "seller": "4CmTezzfao2g51jrEMuNEJJThYGda8uJ4gQkrJio8pjC",
+    "sellerReferral": "",
+    "price": 0.02,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "20000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/953"
+  },
+  {
+    "signature": "38WNmVSZaf119bqvUTrK7d9K5kgqrb5puu6p8zWy9Hk5yinApqhLvXLCDkkyV9kbYPT5jTcc4CpFXepg7Hb2uaEA",
+    "type": "bid",
+    "source": "magiceden_v2",
+    "tokenMint": "CqHdRz1YtdcCtcC1iBak431mUnXuDAF2QwZzBFVDD4ce",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668773,
+    "blockTime": 1704296612,
+    "buyer": "HB11JGTX1Jx7xvSrSdJgfSKeeAfjDFeGnJC5YBw7zRfp",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0.02,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "20000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/953"
+  },
+  {
+    "signature": "3ozCTbZ8iiyUZW3jUgrUgEq3Cq6qi7ZSAjT3o15LT8VMeMhwTDfuYyuhqm2MbGL4eQqfjaSEnXRp2uieA1VyBHSM",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "9MQ6oMRyWQzWYrVDQp1jkDkDDkpW5qrJyRRXygSuCWnn",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668770,
+    "blockTime": 1704296611,
+    "buyerReferral": "",
+    "seller": "BeAQk6VvNsFVijFedSNFiGjaLpw38L1mmJ2EWeTwXPiS",
+    "sellerReferral": "",
+    "price": 0.03,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "30000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/1662"
+  },
+  {
+    "signature": "47Jd66MXxHspKLi5aGzxB3bxH7RSHFmLnW8bAgicDicHiyD5bKsoyHD2Gp1WB39Q6KMv9QTScep2zZaR7CpY2Lcv",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "J9GFywpp6mrwT8u6cLN8hPmtwkLgEhGomL7bNFfJx7Nd",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668765,
+    "blockTime": 1704296609,
+    "buyerReferral": "",
+    "seller": "Ebq6uykqjCwBConLNBrTaUG7EG38YDJQLgFv9SU7iLXM",
+    "sellerReferral": "",
+    "price": 0.018,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "18000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/962"
+  },
+  {
+    "signature": "4NK2wZ6Ruy7uaLXaJdD2nNNXpdhVyMR5TjGQzG2vPkzLAcpirw4Lk1ES6uLGBd8kvEdZa6gtcUoCaPbMXfttQfa7",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "AgPuQgbbec5YXZuJdbfEGPquyPDxVCNVhgB1jN1fZ1MZ",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668749,
+    "blockTime": 1704296600,
+    "buyerReferral": "",
+    "seller": "3co7q1DVc1HYv3PybbW8FUntmdnntJ2pphhxErY6AHRz",
+    "sellerReferral": "",
+    "price": 0.5,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "500000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/1403"
+  },
+  {
+    "signature": "234azZWTrdq8W1c7prGUCnt1B3V7491ns9jHyAi7YGxtyHGgUi2fRXwTpDocZaRLGrqz8LZZPNPY4yo1AJh7qhtx",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "9CHF5HHGSr4t7YoHoAKgD2aQjxRbHnsWzXdWfJuK7eAN",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668751,
+    "blockTime": 1704296600,
+    "buyerReferral": "",
+    "seller": "4vUWaFTnF4zNg7LS25Sf98z8ikJvEEvsRMWu1H2QJRPi",
+    "sellerReferral": "",
+    "price": 0.03,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "30000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/744"
+  },
+  {
+    "signature": "2zubQApmLxL5wBPAuTSCHJsESiozjZnkd4nX5ZQb72dhoKveDNUzsHQAkCaJkaEHmKmrV3irwBw5YDomxgTskDJd",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "AfUMwGo6cPdddeZbMoRHyiB4ANW36dGgGWnsw8MZ8vvf",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668751,
+    "blockTime": 1704296600,
+    "buyerReferral": "",
+    "seller": "Ex5spHoQSC3ytyWS7f4QVTqGfDho7tc6K45XWKiAh62T",
+    "sellerReferral": "",
+    "price": 0.054,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "54000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/1902"
+  },
+  {
+    "signature": "4oRwsyZzDctN8JEDAQdwgj67yPKQtRaD4JMBKRpSKZNnuM2k5DZuqzVBiiZujPieKiufYTFLDngfJCWL5SKcqEP4",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "2wJY92dyUZWbuRtRc7XMy6sv9e94xa4CcBpbAd5KK3kt",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668741,
+    "blockTime": 1704296596,
+    "buyerReferral": "",
+    "seller": "GRRnVpCxrHegB65grMopwtseGbD2TaGmYhzzPWX4SaoB",
+    "sellerReferral": "",
+    "price": 0.019,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "19000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/1443"
+  },
+  {
+    "signature": "4wd9Vst4RxG2ohncNoaxJX1G356ojTgXUFT32M5PPvF5vSWPHExhCBRjjJDK7zGCnXUsxPWsgWkrrLhzdrRJVhMw",
+    "type": "delist",
+    "source": "tensortrade",
+    "tokenMint": "FDoav44MXjTaUCstRjEfUJw6FUWFeXR6WKKPiK3S6zyM",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668741,
+    "blockTime": 1704296596,
+    "buyerReferral": "",
+    "seller": "3ag36BT8PEcC5ojJfZvkoLpeoFA21cYUoocsGxdDJrph",
+    "sellerReferral": "",
+    "price": 0,
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/1213"
+  },
+  {
+    "signature": "559Ldt69AX3DRyjxsdhn9SpQL9R4qJmUtN1xBXSZSoDqhmEVsKmkJnUQkN1tPCDpNn14A3XvtATmpsKqvuj4yoDm",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "J8ASBz1UWqChTbofmJQP5m47unNnV9QBWb1ZNBZtdd9v",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668742,
+    "blockTime": 1704296596,
+    "buyerReferral": "",
+    "seller": "42wzV21b13NY1pJTo2BdU5ZmAuYPr4WndL8XSnvuh4NH",
+    "sellerReferral": "",
+    "price": 0.045,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "45000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/1984"
+  },
+  {
+    "signature": "5JbCrpcdGoZaqUh39SGt3gnaRU7G4LMW68JSNyRcpDxG6udrhS9r7sD4UKigXNrpHtMYKiJWMbrUJUaLeaC45hkz",
+    "type": "buyNow",
+    "source": "magiceden_v2",
+    "tokenMint": "6iqMeABGmfhaMTfGQA8kJRLvVbPESNK1hkWkYAaXZnNn",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668738,
+    "blockTime": 1704296595,
+    "buyer": "JBSH4VBAsJC49RY8MFKAtQW9Wsua7otrcYA1j6DtQch8",
+    "buyerReferral": "",
+    "seller": "BiBiazvNGk4by53RvYYapqxLxh4vJ6DHCdyxrPoiHZ5q",
+    "sellerReferral": "",
+    "price": 0.02,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "20000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/1492"
+  },
+  {
+    "signature": "5JbCrpcdGoZaqUh39SGt3gnaRU7G4LMW68JSNyRcpDxG6udrhS9r7sD4UKigXNrpHtMYKiJWMbrUJUaLeaC45hkz",
+    "type": "bid",
+    "source": "magiceden_v2",
+    "tokenMint": "6iqMeABGmfhaMTfGQA8kJRLvVbPESNK1hkWkYAaXZnNn",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668738,
+    "blockTime": 1704296595,
+    "buyer": "JBSH4VBAsJC49RY8MFKAtQW9Wsua7otrcYA1j6DtQch8",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0.02,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "20000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/1492"
+  },
+  {
+    "signature": "4EGSYfrpFHzx5gZvzgEgkQmhEEw1KZTttjb8gbdPC9tYGuTBbp4umwChf5MWKwEhuVPXd9PnVhAMHuxa851zqxfX",
+    "type": "buyNow",
+    "source": "magiceden_v2",
+    "tokenMint": "55XnjxsQStsrcG8QuykV7i7PJvBHDrJ5fA7UJo2Tc8Y6",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668736,
+    "blockTime": 1704296594,
+    "buyer": "JBSH4VBAsJC49RY8MFKAtQW9Wsua7otrcYA1j6DtQch8",
+    "buyerReferral": "",
+    "seller": "BiBiazvNGk4by53RvYYapqxLxh4vJ6DHCdyxrPoiHZ5q",
+    "sellerReferral": "",
+    "price": 0.02,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "20000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/1894"
+  },
+  {
+    "signature": "4EGSYfrpFHzx5gZvzgEgkQmhEEw1KZTttjb8gbdPC9tYGuTBbp4umwChf5MWKwEhuVPXd9PnVhAMHuxa851zqxfX",
+    "type": "bid",
+    "source": "magiceden_v2",
+    "tokenMint": "55XnjxsQStsrcG8QuykV7i7PJvBHDrJ5fA7UJo2Tc8Y6",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668736,
+    "blockTime": 1704296594,
+    "buyer": "JBSH4VBAsJC49RY8MFKAtQW9Wsua7otrcYA1j6DtQch8",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0.02,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "20000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/1894"
+  },
+  {
+    "signature": "oUj5yzYyrfEY6uso5q6CAPhHjSyNUia4Yep5CFi1MWNp21fA6yfjnu4DbeoeMAin6fazSTRSe7J19MJyQT3s3kR",
+    "type": "buyNow",
+    "source": "magiceden_v2",
+    "tokenMint": "GtKVofu9qYf78G4cDrbC4bkLMxvV7ByZ9KE3T83ED8jQ",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668735,
+    "blockTime": 1704296594,
+    "buyer": "JBSH4VBAsJC49RY8MFKAtQW9Wsua7otrcYA1j6DtQch8",
+    "buyerReferral": "",
+    "seller": "BiBiazvNGk4by53RvYYapqxLxh4vJ6DHCdyxrPoiHZ5q",
+    "sellerReferral": "",
+    "price": 0.02,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "20000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/1431"
+  },
+  {
+    "signature": "2qKaSjuDj193NmG69ktvjdAcNAr3Mi6JuF6tHj5kmApdjg6td9SYjbMA1Eii8ZqiZU1mNXVv5nJtqkMCbUu8i8No",
+    "type": "buyNow",
+    "source": "magiceden_v2",
+    "tokenMint": "AKoe3LR31D1LjAj2D1QFYXYUkUSmfxKZKiyjxx21va76",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668737,
+    "blockTime": 1704296594,
+    "buyer": "JBSH4VBAsJC49RY8MFKAtQW9Wsua7otrcYA1j6DtQch8",
+    "buyerReferral": "",
+    "seller": "BiBiazvNGk4by53RvYYapqxLxh4vJ6DHCdyxrPoiHZ5q",
+    "sellerReferral": "",
+    "price": 0.02,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "20000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/1072"
+  },
+  {
+    "signature": "2qKaSjuDj193NmG69ktvjdAcNAr3Mi6JuF6tHj5kmApdjg6td9SYjbMA1Eii8ZqiZU1mNXVv5nJtqkMCbUu8i8No",
+    "type": "bid",
+    "source": "magiceden_v2",
+    "tokenMint": "AKoe3LR31D1LjAj2D1QFYXYUkUSmfxKZKiyjxx21va76",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668737,
+    "blockTime": 1704296594,
+    "buyer": "JBSH4VBAsJC49RY8MFKAtQW9Wsua7otrcYA1j6DtQch8",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0.02,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "20000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/1072"
+  },
+  {
+    "signature": "oUj5yzYyrfEY6uso5q6CAPhHjSyNUia4Yep5CFi1MWNp21fA6yfjnu4DbeoeMAin6fazSTRSe7J19MJyQT3s3kR",
+    "type": "bid",
+    "source": "magiceden_v2",
+    "tokenMint": "GtKVofu9qYf78G4cDrbC4bkLMxvV7ByZ9KE3T83ED8jQ",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668735,
+    "blockTime": 1704296594,
+    "buyer": "JBSH4VBAsJC49RY8MFKAtQW9Wsua7otrcYA1j6DtQch8",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0.02,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "20000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/1431"
+  },
+  {
+    "signature": "3kJapt2LSQJHDb8fhwTxVceNqtQc8C4QMnw7UEcYRZ9gJanLrGGALJyLXmhusdNYXHwzecLKHQo3WXyWj6xrPJVe",
+    "type": "buyNow",
+    "source": "magiceden_v2",
+    "tokenMint": "9JnC1S7BSfuunWygkZ8GfZAmx8tQ2PUNYAfBQXTJwKYR",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668732,
+    "blockTime": 1704296592,
+    "buyer": "JBSH4VBAsJC49RY8MFKAtQW9Wsua7otrcYA1j6DtQch8",
+    "buyerReferral": "",
+    "seller": "BiBiazvNGk4by53RvYYapqxLxh4vJ6DHCdyxrPoiHZ5q",
+    "sellerReferral": "",
+    "price": 0.02,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "20000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/1399"
+  },
+  {
+    "signature": "3kJapt2LSQJHDb8fhwTxVceNqtQc8C4QMnw7UEcYRZ9gJanLrGGALJyLXmhusdNYXHwzecLKHQo3WXyWj6xrPJVe",
+    "type": "bid",
+    "source": "magiceden_v2",
+    "tokenMint": "9JnC1S7BSfuunWygkZ8GfZAmx8tQ2PUNYAfBQXTJwKYR",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668732,
+    "blockTime": 1704296592,
+    "buyer": "JBSH4VBAsJC49RY8MFKAtQW9Wsua7otrcYA1j6DtQch8",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0.02,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "20000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/1399"
+  },
+  {
+    "signature": "4YvJWLnKWPSvymHhVaXVH9TQ97FvvDV8VC78Npuc1g7MVBBkCzWQX4CK4AVUd77JeSqwwG3i5qzoZSyuHdfQLeay",
+    "type": "buyNow",
+    "source": "magiceden_v2",
+    "tokenMint": "7veZJgo2uewZb3u5a8KbbNZk5U3LfJbh4MLykzGhVgVv",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668731,
+    "blockTime": 1704296592,
+    "buyer": "JBSH4VBAsJC49RY8MFKAtQW9Wsua7otrcYA1j6DtQch8",
+    "buyerReferral": "",
+    "seller": "BiBiazvNGk4by53RvYYapqxLxh4vJ6DHCdyxrPoiHZ5q",
+    "sellerReferral": "",
+    "price": 0.02,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "20000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/1901"
+  },
+  {
+    "signature": "4YvJWLnKWPSvymHhVaXVH9TQ97FvvDV8VC78Npuc1g7MVBBkCzWQX4CK4AVUd77JeSqwwG3i5qzoZSyuHdfQLeay",
+    "type": "bid",
+    "source": "magiceden_v2",
+    "tokenMint": "7veZJgo2uewZb3u5a8KbbNZk5U3LfJbh4MLykzGhVgVv",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668731,
+    "blockTime": 1704296592,
+    "buyer": "JBSH4VBAsJC49RY8MFKAtQW9Wsua7otrcYA1j6DtQch8",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0.02,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "20000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/1901"
+  },
+  {
+    "signature": "3UzVH4xFZxMsukW6mBw67MU8t4c4UzcZqFuFQ4ECgzQ8PATxabZNg2dkeXt6rqgqZo7wmdJQZTpMZuViJ7nyyAdu",
+    "type": "buyNow",
+    "source": "magiceden_v2",
+    "tokenMint": "Bkv4Ci7LSyvGQ57uviBc6cFBJikTSzZm3jifARn2WF5t",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668731,
+    "blockTime": 1704296592,
+    "buyer": "JBSH4VBAsJC49RY8MFKAtQW9Wsua7otrcYA1j6DtQch8",
+    "buyerReferral": "",
+    "seller": "BiBiazvNGk4by53RvYYapqxLxh4vJ6DHCdyxrPoiHZ5q",
+    "sellerReferral": "",
+    "price": 0.02,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "20000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/1292"
+  },
+  {
+    "signature": "3UzVH4xFZxMsukW6mBw67MU8t4c4UzcZqFuFQ4ECgzQ8PATxabZNg2dkeXt6rqgqZo7wmdJQZTpMZuViJ7nyyAdu",
+    "type": "bid",
+    "source": "magiceden_v2",
+    "tokenMint": "Bkv4Ci7LSyvGQ57uviBc6cFBJikTSzZm3jifARn2WF5t",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668731,
+    "blockTime": 1704296592,
+    "buyer": "JBSH4VBAsJC49RY8MFKAtQW9Wsua7otrcYA1j6DtQch8",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0.02,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "20000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/1292"
+  },
+  {
+    "signature": "2r6ScxrffS8PJcePpY4xfFn5wr1sKfVqk1gHYae3WUfMqRs6HNp4giRS4DVsLwViyAiTQbW3SiqpiXc24BmdNuS2",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "DP6Miqax412AF9Avb1GRkQNFaQgmX7yLyTuar1HxWQPR",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668729,
+    "blockTime": 1704296590,
+    "buyerReferral": "",
+    "seller": "EqVEcEMMWhLZgwvtTFmfRyWdFCKmRk8MpYKoZAdghFFb",
+    "sellerReferral": "",
+    "price": 0.0198,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "19800000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/167"
+  },
+  {
+    "signature": "4e683cXH2t726fFoaQ3qidZWEKQpRpVbMXhCe7fEHetzK2cgXpxaZD1mK6pH4mEs4TorJFfRdMZBuut8GSRdFcJJ",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "HdXUqTEmhn11KWXd1UGsbjW48a2fmrjt1XA8SxCic8Mm",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668723,
+    "blockTime": 1704296588,
+    "buyerReferral": "",
+    "seller": "2QRFizw5AeK3wirda6NS3WR7jwgTwr9mSL8XTX8Dyt5X",
+    "sellerReferral": "",
+    "price": 0.018,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "18000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/1154"
+  },
+  {
+    "signature": "Jwg82keeQRqH8XsyNAUARRhBjfZDVF1A3ajC4sf5MZ42ggp2ZoyeeKRtoBTJw1M2bAUTckAn9jrmNifGHK4ACEt",
+    "type": "buyNow",
+    "source": "magiceden_v2",
+    "tokenMint": "4BpNL6YsyBe9MdsWnvDn7Zt2S3bLbQXXFGGSGR61d8Ku",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668719,
+    "blockTime": 1704296586,
+    "buyer": "9457yS3afJuNSp6uNoewCUBuUQJ7wgi1ginYLh9KJike",
+    "buyerReferral": "",
+    "seller": "BiBiazvNGk4by53RvYYapqxLxh4vJ6DHCdyxrPoiHZ5q",
+    "sellerReferral": "",
+    "price": 0.02,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "20000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/2193"
+  },
+  {
+    "signature": "Jwg82keeQRqH8XsyNAUARRhBjfZDVF1A3ajC4sf5MZ42ggp2ZoyeeKRtoBTJw1M2bAUTckAn9jrmNifGHK4ACEt",
+    "type": "bid",
+    "source": "magiceden_v2",
+    "tokenMint": "4BpNL6YsyBe9MdsWnvDn7Zt2S3bLbQXXFGGSGR61d8Ku",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668719,
+    "blockTime": 1704296586,
+    "buyer": "9457yS3afJuNSp6uNoewCUBuUQJ7wgi1ginYLh9KJike",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0.02,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "20000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/2193"
+  },
+  {
+    "signature": "4WePExBoPMkLaPbvqTzHNQd51jBzRc4wY13Y1s9AxYwjFdKVRBhiGdqTbQRCB8aympauD9ggpmksGT2V2W1VDCK",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "GzXLsLaU1uwvoyfKLShhoBF2xhafzhkwhNhvzDWqYW2v",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668719,
+    "blockTime": 1704296586,
+    "buyerReferral": "",
+    "seller": "8T5UHhwX3xxA9EhzosxwGhNWuvXbL7M62Mikq1PYGLGV",
+    "sellerReferral": "",
+    "price": 0.17,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "170000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/1068"
+  },
+  {
+    "signature": "318NMkV3QvPyF4mTt8iVhzdAkCz7AJJABd8CgfTB2deJoHioNwnCuWhEpUPJqx5v54PLDqG1pcJ8SHHQ42FhSFrH",
+    "type": "buyNow",
+    "source": "tensortrade",
+    "tokenMint": "EbomMN99voG17v1cpJgdrLoUZdcjXp5FYjSKgNkKznYk",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668717,
+    "blockTime": 1704296585,
+    "buyer": "G56rfoxy3B9ehz6PZnkoa6Ru87eyzJEK9PDVBnXUmr3y",
+    "buyerReferral": "",
+    "seller": "DVhwSE98dHBtEGnQcYyAiEzE2XFjGnGwwuv9n1Ypnre9",
+    "sellerReferral": "",
+    "price": 0.0645,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "64500000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/2166"
+  },
+  {
+    "signature": "4JeVZSzKYbBLVXZfLhodNPFoWDfuuRzv5hqgDiDnBV2L77mwt4yYgNYJHuHPvwmVBfARdraaDxg1ZSF6dPnEd4MB",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "BT59h5TTtLmT2HTiGNv3viFQMcjfC1E21K8GB4VFwAsR",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668716,
+    "blockTime": 1704296584,
+    "buyerReferral": "",
+    "seller": "65YFEeUXtZXbDmSqkEtYdgfdoVnwkQ4tqTPc4B9t1CnU",
+    "sellerReferral": "",
+    "price": 0.04,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "40000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/265"
+  },
+  {
+    "signature": "55cZYzb2UpMvir9gTCeVFs9sd1d3a1TyYX5cpAWdaTEFGeNipQRxRXWSLXs87PBoDT4oYBmPyJjVnG3CQFySzCJi",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "EohtWVkenk7W5B2XgXXgmsi3gCtbraaRD2af5GJujsSH",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668702,
+    "blockTime": 1704296578,
+    "buyerReferral": "",
+    "seller": "65YFEeUXtZXbDmSqkEtYdgfdoVnwkQ4tqTPc4B9t1CnU",
+    "sellerReferral": "",
+    "price": 0.04,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "40000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/1294"
+  },
+  {
+    "signature": "XLmGSCKmDmDuFG5R1p1b1e7WoXWYshrae8VpvCzvB246g3AxUsvWveTN3vrAA2YiWVRVcTPFwtaBGvqQJUaRunJ",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "B7dBY3LxChmo9bJg2Yk4oAX3v3hnWU5DN2Xx8ut4RcYJ",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668700,
+    "blockTime": 1704296577,
+    "buyerReferral": "",
+    "seller": "65YFEeUXtZXbDmSqkEtYdgfdoVnwkQ4tqTPc4B9t1CnU",
+    "sellerReferral": "",
+    "price": 0.04,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "40000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/73"
+  },
+  {
+    "signature": "4v1dFsu7295Y4BaeBvYis7oYRxkKS7hoyccrubRyqCqM4EqkcUa6pjprN8s6YhD2h3LUZvfoHkuykR8csuHhcx6z",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "EbomMN99voG17v1cpJgdrLoUZdcjXp5FYjSKgNkKznYk",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668696,
+    "blockTime": 1704296576,
+    "buyerReferral": "",
+    "seller": "DVhwSE98dHBtEGnQcYyAiEzE2XFjGnGwwuv9n1Ypnre9",
+    "sellerReferral": "",
+    "price": 0.06,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "60000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/2166"
+  },
+  {
+    "signature": "3qUxGyE9Wbp1MbEqysrCiRFm9u8DJiKxzgwV1B2vAuUDCtKsc3TgTmJFocdSnjukNHzDbXchJKNhdx6mvAKzzZcf",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "76WeC8AtW5zq8juVQZomt3hM9YLs27DH2d4Dtmzw7WiN",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668698,
+    "blockTime": 1704296576,
+    "buyerReferral": "",
+    "seller": "65YFEeUXtZXbDmSqkEtYdgfdoVnwkQ4tqTPc4B9t1CnU",
+    "sellerReferral": "",
+    "price": 0.04,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "40000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/1123"
+  },
+  {
+    "signature": "3XNJUJaYA82A8qpgNAq4ZpAW9QikA5A6mSGrkvmcmGujA3cMNmdVJypiGBHs5NmyYsCg7iREagQvmN4twu5TdwCj",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "vRZbBfKY7pVCS86h7J6y5UWWSfFWjhyxWGXtgSuAXeg",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668695,
+    "blockTime": 1704296575,
+    "buyerReferral": "",
+    "seller": "65YFEeUXtZXbDmSqkEtYdgfdoVnwkQ4tqTPc4B9t1CnU",
+    "sellerReferral": "",
+    "price": 0.04,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "40000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/1955"
+  },
+  {
+    "signature": "4jTCm7etoq9aR5xpLhfZwE5ToWNpGCnPRaj9f9WHc6Do4qMev7MWpWwgkNaHe9JSuiYHPXeXzKbQqs6hL3ee6aYa",
+    "type": "buyNow",
+    "source": "tensortrade",
+    "tokenMint": "Ce9oiGBY8MUQhskUsvw6qK6N4weMghUsBV4Rb1TbghL9",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668695,
+    "blockTime": 1704296575,
+    "buyer": "75RQVhXioGH36sYyqPtMPCNH2KoLMY6hv7YuhT4F75sA",
+    "buyerReferral": "",
+    "seller": "7jPZTCbnkm71dBh6Fjt92WvTFfrWHGAuAuDvQe2VxJow",
+    "sellerReferral": "",
+    "price": 0.0301,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "30100000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/489"
+  },
+  {
+    "signature": "4M6JENojGEUfjxWGfMasYU2Rg1cm9rSPKKcDy64xnDuT93FjJpcXcMs41fZttRkMp8gA5xF2veea1w29HweDPcro",
+    "type": "buyNow",
+    "source": "magiceden_v2",
+    "tokenMint": "2yppE6nP1ZibxcThhED8dhM5ZQQQMp3YXYSPvjRdt1th",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668685,
+    "blockTime": 1704296570,
+    "buyer": "Ug1uAepGn2WucByobucWcdJEBdcZbGzAbWwY9jpvBLV",
+    "buyerReferral": "",
+    "seller": "BiBiazvNGk4by53RvYYapqxLxh4vJ6DHCdyxrPoiHZ5q",
+    "sellerReferral": "",
+    "price": 0.02,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "20000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/741"
+  },
+  {
+    "signature": "4M6JENojGEUfjxWGfMasYU2Rg1cm9rSPKKcDy64xnDuT93FjJpcXcMs41fZttRkMp8gA5xF2veea1w29HweDPcro",
+    "type": "bid",
+    "source": "magiceden_v2",
+    "tokenMint": "2yppE6nP1ZibxcThhED8dhM5ZQQQMp3YXYSPvjRdt1th",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668685,
+    "blockTime": 1704296570,
+    "buyer": "Ug1uAepGn2WucByobucWcdJEBdcZbGzAbWwY9jpvBLV",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0.02,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "20000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/741"
+  },
+  {
+    "signature": "3ja1NqdManCLESTPFcuBXNa2tYBSpbAwPTAGM2ABAqsB22YuLFy3FLAmmrRUafcrtexqzHNGHBLWoZ9gyu5xxxyT",
+    "type": "buyNow",
+    "source": "magiceden_v2",
+    "tokenMint": "G3QyHK2vAdFM171FViezeoz54ynKqwuZnJaJdKm91kYJ",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668679,
+    "blockTime": 1704296568,
+    "buyer": "bneopmunb9RnN2uJW5YJsAgqK7G4e7QhfWjHdvdtBAy",
+    "buyerReferral": "",
+    "seller": "BiBiazvNGk4by53RvYYapqxLxh4vJ6DHCdyxrPoiHZ5q",
+    "sellerReferral": "",
+    "price": 0.02,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "20000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/2191"
+  },
+  {
+    "signature": "2DuNftVjrCSgBpV56DvNospkB2QbMdB3wa1ufRKtwz5RkgTByFRCxrCt8Xto848RNczS5rorNvjZLXctSKWYA5zT",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "DFQmTnMZkuJ2Qm4fDVzTV1U1KDbDP1Lw4DCZYLbGDdp6",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668679,
+    "blockTime": 1704296568,
+    "buyerReferral": "",
+    "seller": "DPb4Wc95FqtKnfiPod4RaVArLj5EZXqZtkM5zWduNoEf",
+    "sellerReferral": "",
+    "price": 0.027,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "27000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/581"
+  },
+  {
+    "signature": "3ja1NqdManCLESTPFcuBXNa2tYBSpbAwPTAGM2ABAqsB22YuLFy3FLAmmrRUafcrtexqzHNGHBLWoZ9gyu5xxxyT",
+    "type": "bid",
+    "source": "magiceden_v2",
+    "tokenMint": "G3QyHK2vAdFM171FViezeoz54ynKqwuZnJaJdKm91kYJ",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668679,
+    "blockTime": 1704296568,
+    "buyer": "bneopmunb9RnN2uJW5YJsAgqK7G4e7QhfWjHdvdtBAy",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0.02,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "20000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/2191"
+  },
+  {
+    "signature": "3B9fsgGdBPoxyLUszB6RqMcnt7sTbo7C9wdg7fmzop5qChhcaNqvrkuPArgpjp1SmxoETCd3eDfJFQAdzmHUbhuT",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "2CjNYsARLqakfejaMcuvbEpGYzDy57VmVKqRusoDBU5b",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668677,
+    "blockTime": 1704296567,
+    "buyerReferral": "",
+    "seller": "FCF1zT9DeT9ikVeYe862sBBJ8MjorF9oEzmUJsFu1TVG",
+    "sellerReferral": "",
+    "price": 0.026,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "26000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/797"
+  },
+  {
+    "signature": "5idxCnCqSejuPkmjc3QnKg8KaAtcxsPWAsmq4u85g6raDWkhQbcxH5S6kjzfqCebrf2TZehUNjEsnjiCbwi7uZgG",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "CBczyGMxRrXGRZZ4yCxkeK3tfuDpqg6eUrRAri6ZW1td",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668678,
+    "blockTime": 1704296567,
+    "buyerReferral": "",
+    "seller": "GkCd7BZefCp3rfUHM7LMhabaCeSGFKJcSp5Q93XuSHwB",
+    "sellerReferral": "",
+    "price": 3,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "3000000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/216"
+  },
+  {
+    "signature": "2WBh7Hi5rUTwaXn23BvXKfKhaHtHAYCetELqkkr5L6h48BEisE2k7YdZukqxyCgTEZS3PHyQxuyaq4q7WdJ91ERh",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "7oiHMNnMcvFVLrCWewHKcfxAHqVU9aVXtkfshSmbwskd",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668678,
+    "blockTime": 1704296567,
+    "buyerReferral": "",
+    "seller": "FCF1zT9DeT9ikVeYe862sBBJ8MjorF9oEzmUJsFu1TVG",
+    "sellerReferral": "",
+    "price": 0.026,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "26000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/737"
+  },
+  {
+    "signature": "2pRwuDcwPygQd5eboJTdBSoiywjxPaTnK5WGqA19g4EPJtfjkJrH8tnVJ8ZUSbGRsVjAkx7iech7qgvqGUUN3fNk",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "CgUzzPsLjR71nXzP9vbN4dUnCUJPrGANpo64B2UFT8cn",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668675,
+    "blockTime": 1704296566,
+    "buyerReferral": "",
+    "seller": "FCF1zT9DeT9ikVeYe862sBBJ8MjorF9oEzmUJsFu1TVG",
+    "sellerReferral": "",
+    "price": 0.026,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "26000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/2"
+  },
+  {
+    "signature": "NJjtNMwwTkH9hup8ZdjKZcXDNjyLTzpBhaEYAZe4XNqLQSjhG9AHkbRg68SkupDne3H8Ejd7M35uCVbyuzW5jTd",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "93sL8xZ2eNemibZz6Fo4FpQnMM7xakGPtMoBX6SCBEo",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668675,
+    "blockTime": 1704296566,
+    "buyerReferral": "",
+    "seller": "FCF1zT9DeT9ikVeYe862sBBJ8MjorF9oEzmUJsFu1TVG",
+    "sellerReferral": "",
+    "price": 0.026,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "26000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/1999"
+  },
+  {
+    "signature": "3xwLkqjZgdKjoJKzZz5n9uWLTnZTx3fhSrE1vLRmL7vygvM8NF3KKYiBKEDpatU2MTiVBWT5nLyaegykVeJmdv6j",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "HyfH28WwPfcHRnr1Q7HHBrxPaFJBACQPTC1fkaNKnzAh",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668673,
+    "blockTime": 1704296565,
+    "buyerReferral": "",
+    "seller": "FCF1zT9DeT9ikVeYe862sBBJ8MjorF9oEzmUJsFu1TVG",
+    "sellerReferral": "",
+    "price": 0.026,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "26000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/2024"
+  },
+  {
+    "signature": "3mezRVebCBUrD7XacGkrcEbVjUcDMbGA5mX9yKmFFAkUiRG8gk8gt6JJXQ92vEgvdX3tQQq2s1ZHypq4ywHpCCFp",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "4KgaxWRs7X4HDYVT2PFM8RDQkKuNFdqK2uxPQ154cN9L",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668674,
+    "blockTime": 1704296565,
+    "buyerReferral": "",
+    "seller": "FCF1zT9DeT9ikVeYe862sBBJ8MjorF9oEzmUJsFu1TVG",
+    "sellerReferral": "",
+    "price": 0.026,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "26000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/1044"
+  },
+  {
+    "signature": "xA4QBjB7kP8sPVZuCYkPszknXAaxwc4E1DLAZNmqtstkuptKktAhtAjLTN3JzPtddnHfimpASmT6gMbc9FeQZ2m",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "6vtbfXkDFwwpVK48RGKjUwwSndb5mjE3YChcHwDuwC9J",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668672,
+    "blockTime": 1704296565,
+    "buyerReferral": "",
+    "seller": "FCF1zT9DeT9ikVeYe862sBBJ8MjorF9oEzmUJsFu1TVG",
+    "sellerReferral": "",
+    "price": 0.026,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "26000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/1567"
+  },
+  {
+    "signature": "36NAKphHdvehttBEDgBCaR5FbJN22ChRB3h1WeiAi3Ck9uT82KdVmDF5oaWxWeuR8fMSCN92y6kf2yYqN8h2ejmF",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "6iCcnH9WU5DTPQ51zz6YqrX1RUW1uNQpwHyoEozcwda4",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668672,
+    "blockTime": 1704296565,
+    "buyerReferral": "",
+    "seller": "FCF1zT9DeT9ikVeYe862sBBJ8MjorF9oEzmUJsFu1TVG",
+    "sellerReferral": "",
+    "price": 0.026,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "26000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/647"
+  },
+  {
+    "signature": "311wKoNxeG1PEf35jz4Z1KSQMG6A4KonDZBGUnymPHwpG8uAYny74emmhk5jKaHpryDU7us4UCpr7wNuwr2cR6RE",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "9w7HLYz74mNkKDBY1qdf9mtVwstvjpSBLZKei5sgJqnH",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668673,
+    "blockTime": 1704296565,
+    "buyerReferral": "",
+    "seller": "DPb4Wc95FqtKnfiPod4RaVArLj5EZXqZtkM5zWduNoEf",
+    "sellerReferral": "",
+    "price": 0.027,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "27000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/679"
+  },
+  {
+    "signature": "2FgwzMQWEAp1StTnuC5WchoE8F2DccfPp5SKFNW1APDTgU7BWoKwca7st3zCxoe45bct4JRjA5mHSPpCnTrhS5ig",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "CcKz6gPJoLwhW5q7YbmXcMViLxDhNv9qhNVmNBCWL2PJ",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668674,
+    "blockTime": 1704296565,
+    "buyerReferral": "",
+    "seller": "FCF1zT9DeT9ikVeYe862sBBJ8MjorF9oEzmUJsFu1TVG",
+    "sellerReferral": "",
+    "price": 0.026,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "26000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/451"
+  },
+  {
+    "signature": "5C9zR88xnJeMB3hQe245SLQFPkAxjJQDc9eAGHuvEN9gAMjgzdy9h4zqDBUR6CwY9guVVLoK5fEaBtqVcUdB169f",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "5BMkUhEPiid85837WckQfzarpJckBCfBetBxvNHnKtbw",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668672,
+    "blockTime": 1704296565,
+    "buyerReferral": "",
+    "seller": "FCF1zT9DeT9ikVeYe862sBBJ8MjorF9oEzmUJsFu1TVG",
+    "sellerReferral": "",
+    "price": 0.026,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "26000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/1"
+  },
+  {
+    "signature": "4PL4K8F4hHJxKVD7nCEoDtxkTvBB6wYTFQRasJAd8JDNqjHKMUhMatvTfNDpjpXuyMvPgCsvrbXmuzB8oWskKgGX",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "2GVfmtHBNpzjFyxfHHADFn6RnwWR6TjNAt97x3VadBPp",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668672,
+    "blockTime": 1704296565,
+    "buyerReferral": "",
+    "seller": "FCF1zT9DeT9ikVeYe862sBBJ8MjorF9oEzmUJsFu1TVG",
+    "sellerReferral": "",
+    "price": 0.026,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "26000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/873"
+  },
+  {
+    "signature": "44y5SeF7a4j3PTzQpYA8gAV985X6EjQwMEox376LnsFquqi2NSps2X9sqdz4GUDuUh1kYnCKm3pK1g5m31LSR61i",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "HujSPzEq2Xd8aTSUjdiVmukma78paN9NeXs6Hw37EmHN",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668672,
+    "blockTime": 1704296565,
+    "buyerReferral": "",
+    "seller": "FCF1zT9DeT9ikVeYe862sBBJ8MjorF9oEzmUJsFu1TVG",
+    "sellerReferral": "",
+    "price": 0.026,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "26000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/0"
+  },
+  {
+    "signature": "5BaysDxPkv1YBWdsE1z1dqs8XvUVEAVmunV6vPC7AgA92nzyXW73yMtuGL9Pdd5Z5xpEgrmtdQ5CraDucSxEJ9ZP",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "6sDUXTfFC1AuGRk4giusEHZR8DKeV3HLhNJhjrqEQuzz",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668672,
+    "blockTime": 1704296565,
+    "buyerReferral": "",
+    "seller": "FCF1zT9DeT9ikVeYe862sBBJ8MjorF9oEzmUJsFu1TVG",
+    "sellerReferral": "",
+    "price": 0.026,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "26000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/1274"
+  },
+  {
+    "signature": "5qZg4KgWa3vTYc3b1heMyAjroJ7jZPS9xxHKuijnLJVpjf6PxmxU7rQEqxDxF4RHCdHm3qy1qYPuXwUrFfxvHcLQ",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "4Jso7oT3GvbrfyFEssH6mmghKzjCSeSG2M3K6qun3L3g",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668672,
+    "blockTime": 1704296565,
+    "buyerReferral": "",
+    "seller": "FCF1zT9DeT9ikVeYe862sBBJ8MjorF9oEzmUJsFu1TVG",
+    "sellerReferral": "",
+    "price": 0.026,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "26000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/1521"
+  },
+  {
+    "signature": "66RXt5cQsPRUerux8sqdB96GFhX9ThUB5N2LZmpbzEuByBdmWJ8N57kExitnb1RkTy4sWnXqGCQaF8gFVyvXVWaZ",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "5F4GSKsXhqjPzPgyDyVFAhxbzBP594H1rsPjVBv3LRcM",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668669,
+    "blockTime": 1704296563,
+    "buyerReferral": "",
+    "seller": "DPb4Wc95FqtKnfiPod4RaVArLj5EZXqZtkM5zWduNoEf",
+    "sellerReferral": "",
+    "price": 0.027,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "27000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/717"
+  },
+  {
+    "signature": "4bk8FaXCXg3rQ4JMoDCy4EKF2BohTmqY3WjGptSNizHjjuidogJBQiswM1knKYba84Sa8LzeB7TA2MJurAMwmh4w",
+    "type": "buyNow",
+    "source": "tensortrade",
+    "tokenMint": "8aisVpqwTfAcWidV1t5Tb2t94UyxM9kmEwqNmGPG4Ky5",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668666,
+    "blockTime": 1704296562,
+    "buyer": "Ug1uAepGn2WucByobucWcdJEBdcZbGzAbWwY9jpvBLV",
+    "buyerReferral": "",
+    "seller": "HAg5Q2J3WMzAAN415HcsVBxTE8NfFuvKpoudRCkQ9wg7",
+    "sellerReferral": "",
+    "price": 0.0215,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "21500000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/1737"
+  },
+  {
+    "signature": "5MukRwZMKYimfQBjsZDYr6xHi3SBxmUMAeZWBoM4wjDV6M2uo6ugEn9JvdMbTr7MveQYEHegbKqU9guzTLDRBwAS",
+    "type": "buyNow",
+    "source": "tensortrade",
+    "tokenMint": "J8ASBz1UWqChTbofmJQP5m47unNnV9QBWb1ZNBZtdd9v",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668666,
+    "blockTime": 1704296562,
+    "buyer": "42wzV21b13NY1pJTo2BdU5ZmAuYPr4WndL8XSnvuh4NH",
+    "buyerReferral": "",
+    "seller": "HSFL1Ct5xUcu4Qswojrq15qYDFU3AtY1Pxps8jyD1SmR",
+    "sellerReferral": "",
+    "price": 0.0215,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "21500000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/1984"
+  },
+  {
+    "signature": "62ZfqNismZ7ZuHL5ZEMmHg8vXzeDtCKshhM3RbxCSmsp8HBYgtbpmD2mjeJREhPMgaY1yLdfPkXZMuacTUTdrTZ",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "AjsuMLAed2BdFzpEhnRbNDG9ZaFBDEVLrHZxF7MGXqjm",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668665,
+    "blockTime": 1704296561,
+    "buyerReferral": "",
+    "seller": "DPb4Wc95FqtKnfiPod4RaVArLj5EZXqZtkM5zWduNoEf",
+    "sellerReferral": "",
+    "price": 0.027,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "27000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/676"
+  },
+  {
+    "signature": "SXueq64Ae7vFreMUt8SphgHrTb1PyX6Z1R53JKiCpwL7TT5vFGYrbhNuACbiryZ8UXfjL8inLC1X9buU2WmhBbB",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "EroC9vEpoovUkWSvnVsHzMDumqVQzJiaR1WGpaHcVaYt",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668665,
+    "blockTime": 1704296561,
+    "buyerReferral": "",
+    "seller": "DPb4Wc95FqtKnfiPod4RaVArLj5EZXqZtkM5zWduNoEf",
+    "sellerReferral": "",
+    "price": 0.027,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "27000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/608"
+  },
+  {
+    "signature": "3xxn8Nphww4w7TY91Wo2C93TfrExARayGaTpMUtumTBTfQvheJ818haUyjquq7stDGCkzThv8TZ6eCimTba6KpdB",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "GpMtjDDkSDacEDMjg7TQzKoMN6JsqNdxxzNhmd2aA3sT",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668663,
+    "blockTime": 1704296560,
+    "buyerReferral": "",
+    "seller": "CXTZWxn71HAHQFU5BFRKxnt9jdM7Q4qQuTvrELVJbNEK",
+    "sellerReferral": "",
+    "price": 0.2,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "200000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/1490"
+  },
+  {
+    "signature": "3xNhEjra7uTnAMYcKLWJe1cmHdjA1Y87kAmJychbjrckfRLXB3cj6iHVagyCDT4FkHtm9yQZsmnVL5LuLq6aTQEQ",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "4p9LmjHe9DJ8f4CPCHwxvRgKQ7odVuCtTetxq7TbJoBJ",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668659,
+    "blockTime": 1704296559,
+    "buyerReferral": "",
+    "seller": "DPb4Wc95FqtKnfiPod4RaVArLj5EZXqZtkM5zWduNoEf",
+    "sellerReferral": "",
+    "price": 0.027,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "27000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/675"
+  },
+  {
+    "signature": "ZwA9sgm966j6DfeudEvrPGYKDxddjnFiwWz91iZT83TH22xWczh5nGHhRfnScXeLW2dnyKfpYTB6i6Fjx2vZTjh",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "CTXAD9v6ijzvtMRcXduyNoLrqgJ2rUxU5BqPWcskm3HU",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668658,
+    "blockTime": 1704296558,
+    "buyerReferral": "",
+    "seller": "DPb4Wc95FqtKnfiPod4RaVArLj5EZXqZtkM5zWduNoEf",
+    "sellerReferral": "",
+    "price": 0.027,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "27000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/633"
+  },
+  {
+    "signature": "3WfdTigb7uRQCUcx657sUemZbVWxGA8PjsVNmn13GCSruirnckWjX9x7qfFxb15dGJH2agx3jB3rnSjhsHTPFDob",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "6nnskN3kGuxdwZoge78ZubdjxUcfiuwZdkAHV3Yyma2d",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668658,
+    "blockTime": 1704296558,
+    "buyerReferral": "",
+    "seller": "DPb4Wc95FqtKnfiPod4RaVArLj5EZXqZtkM5zWduNoEf",
+    "sellerReferral": "",
+    "price": 0.027,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "27000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/547"
+  },
+  {
+    "signature": "4DTxxTRwirQh44hfk8mpVmaU8gozixHHCDMFj8r8rpxUkscBfn7fb2fXZZaQkszekDNKLHpyWuVb54U219fEKmBm",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "5MamfZpXkPmFg8aAqgeYsFXmcxPckY7UzTMSpFhHceiX",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668658,
+    "blockTime": 1704296558,
+    "buyerReferral": "",
+    "seller": "DPb4Wc95FqtKnfiPod4RaVArLj5EZXqZtkM5zWduNoEf",
+    "sellerReferral": "",
+    "price": 0.027,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "27000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/623"
+  },
+  {
+    "signature": "bTVr3qxkhTjEtTqYZy129ka7jF44mGzM7Vkz7PAF4zd22wDcZNTgbtMgRDmxZeWS5TAkV457QdMpE5n6vmSgTwz",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "DVVXgsAfQKhZT6a3tXenZcZZduAm2zJqHfPNu6G17cbH",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668658,
+    "blockTime": 1704296558,
+    "buyerReferral": "",
+    "seller": "DPb4Wc95FqtKnfiPod4RaVArLj5EZXqZtkM5zWduNoEf",
+    "sellerReferral": "",
+    "price": 0.027,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "27000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/607"
+  },
+  {
+    "signature": "3ZTv1GJCVWUBPwnGYCubat1y7T1SLdWTKDqSiMg3CH8LsQnmme43C9n9Vt42Deon3cewHSQAFRtGxWjVsFAnPHwt",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "5UXJmHUiCkGrWdBy6c47bdTrdFN9PBmP7ccdyLpMLPXg",
+    "collection": "magical_owls",
+    "collectionSymbol": "magical_owls",
+    "slot": 239668658,
+    "blockTime": 1704296558,
+    "buyerReferral": "",
+    "seller": "DPb4Wc95FqtKnfiPod4RaVArLj5EZXqZtkM5zWduNoEf",
+    "sellerReferral": "",
+    "price": 0.027,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "27000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://nftstorage.link/ipfs/bafybeidndbsdj6uo4mmgfhl2raxm6zllzih4svvvrga5cwa5c754nyep3q/716"
+  }
+]
