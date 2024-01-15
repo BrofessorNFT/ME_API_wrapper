@@ -9,7 +9,7 @@ async function PopularCollectionsTab() {
         <div className="flex space-x-4">
             {data?.slice(0,10).map(
                 item => 
-                        <div  className= "flex-none border border-gray-200 rounded-lg p-2"key = {item.symbol}>
+                        <div  className= "flex-none border border-gray-200 dark:hover:bg-slate-600 hover:bg-blue-400 rounded-lg p-2"key = {item.symbol}>
                     <Link href = {`https://magiceden.io/marketplace/${item.symbol}`} target='_blank '>
                             <img
                             className="block mx-auto"

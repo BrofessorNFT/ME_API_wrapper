@@ -52,12 +52,12 @@ export default function ActivityTab({ticker}) {
 
     return ( <div className='w-full'>
         <ul>
-        <h1 className='flex flex-row flex-wrap  justify-center items-center  m-2 text-xl  bg-gray-900  rounded-3xl p-5'> Activity for collection </h1>
+        <h1 className='flex flex-row flex-wrap  justify-center items-center  m-2 text-xl  dark:bg-gray-900  bg-slate-300 rounded-3xl p-5'> Activity for collection </h1>
         {data?.filter(item => item.type === "buyNow" || item.type === "list" || item.type === "deList")
         .filter(item => item.image).slice(0,10)
         .map(item =>
             <li key = {item.signature}>
-            <div className='flex flex-row flex-wrap  justify-center items-center bg-gray-900 p-2 border-2 rounded-2xl overflow-hidden m-2  hover:bg-slate-700'>
+            <div className='flex flex-row flex-wrap  justify-center items-center dark:bg-gray-900  bg-slate-300 p-2 border-2 rounded-2xl overflow-hidden m-2  dark:hover:bg-slate-700 hover:bg-blue-400'>
                 <div className='flex rounded-full overflow-hidden'>
                     <img
                     src ={item.image}

@@ -5,7 +5,7 @@ async function RightPanel({ticker}) {
     const data = await getHolderStatsFromME(ticker)
 
     return (<div>   
-        <div className='flex flex-col items-center p-5 border ml-10 -my-20 rounded-3xl bg-gray-900'>
+        <div className='flex flex-col items-center p-5 border ml-10 -my-20 rounded-3xl dark:bg-gray-900  bg-slate-300'>
             <div className='flex flex-col items-center pb-5 text-xl'>
                 <span>Collection: {ticker}</span>
                 <span>Total supply: {data.totalSupply}</span>

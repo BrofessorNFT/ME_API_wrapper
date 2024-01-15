@@ -4,7 +4,7 @@ import SearchBar from './searchbar'
 import { ModeToggle } from './modetoggle'
 
 export default function NavContainer({ children }) {
-    return (<nav className='relative z-50 bg-slate-900 py-1'>
+    return (<nav className='relative z-50 dark:bg-gray-900  bg-slate-500 py-1'>
         
         <div className='flex flex-row justify-between p-4' >
             <Link href = '/'>
@@ -18,13 +18,13 @@ export default function NavContainer({ children }) {
             <div className='flex'>
                 <ul className='flex flex-row px-10 items-center ' >
                     <Link href='/dashboard'>
-                        <li className='px-10 text-base  font-semibold text-center shadow-lg '>dashboard</li>
+                        <li className='px-10 text-base  font-semibold text-center  '>dashboard</li>
                     </Link>
                     <Link href='/'>
-                        <li className='px-10 text-base  font-semibold text-center shadow-lg'>stats</li>
+                        <li className='px-10 text-base  font-semibold text-center '>stats</li>
                     </Link>
                     <Link href='/'>
-                        <li className='px-10 text-base  font-semibold text-center shadow-lg'>holders</li>
+                        <li className='px-10 text-base  font-semibold text-center '>holders</li>
                     </Link>
                 </ul>
             </div>

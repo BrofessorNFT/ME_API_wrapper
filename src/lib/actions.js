@@ -6,7 +6,7 @@ export async function getCollectionFromME(ticker) {
         const response = await fetch(`https://api-mainnet.magiceden.dev/v2/collections/${ticker}/stats`, options);
         const data = await response.json();
         const currentTime = new Date();
-        console.log(`data is${data.floorPrice}`)
+
         return {fp : data.floorPrice,
                 lc: data.listedCount,
                 time : currentTime.toISOString()}
