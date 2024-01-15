@@ -16,7 +16,7 @@ export default function Home({ searchParams}) {
     const query = searchParams?.query || DEFAULT_COLLECTION ;
     return (
     <main >
-    <div className='hidden lg:flex justify-center items-center p-5'> 
+    <div className='flex justify-center items-center p-5'> 
         <SearchBar
             placeholder={'Search collection'}
             />

@@ -22,10 +22,10 @@ export default function NavContainer({ children }) {
                         <li className='lg:px-10 sm:px-2 text-base  font-semibold text-center  '>dashboard</li>
                     </Link>
                     <Link href='/'>
-                        <li className='lg:px-10 sm:px-2 text-base  font-semibold text-center '>stats</li>
+                        <li className='hidden lg:flex lg:px-10 sm:px-2 text-base  font-semibold text-center '>stats</li>
                     </Link>
                     <Link href='/'>
-                        <li className='lg:px-10 sm:px-2 text-base  font-semibold text-center '>holders</li>
+                        <li className='hidden lg:flex lg:px-10 sm:px-2 text-base  font-semibold text-center '>holders</li>
                     </Link>
                 </ul>
             </div>
