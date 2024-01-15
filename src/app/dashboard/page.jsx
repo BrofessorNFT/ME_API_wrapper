@@ -16,14 +16,14 @@ export default function Home({ searchParams}) {
     const query = searchParams?.query || DEFAULT_COLLECTION ;
     return (
     <main >
-    <div className='flex justify-center items-center p-5'> 
+    <div className='hidden lg:flex justify-center items-center p-5'> 
         <SearchBar
             placeholder={'Search collection'}
             />
         </div>
-     <div className="flex items-start justify-between px-12 flex-wrap lg:flex-nowrap">   
-        <div className=' flex-row   w-1/4 -my-20 bg-card  justify-center items-center mx-10 rounded-3xl hidden lg:block'><ActivityTab ticker = {query}/></div>
-        <div className=' flex  flex-col w-full lg:w-1/2 justify-center mx-2 border  '>
+     <div className="flex items-start justify-between lg:px-12 flex-wrap lg:flex-nowrap">   
+        <div className=' flex-row   w-1/4 -my-20 bg-card  justify-center items-center lg:mx-10 rounded-3xl hidden lg:block'><ActivityTab ticker = {query}/></div>
+        <div className=' flex  flex-col w-full lg:w-1/2 justify-center lg:mx-2 border  '>
             <div className='flex justify-center text-xl '><span>Popular collections on ME</span></div>
             <div className='flex flex-row flex-wrap justify-center '><PopularCollectionsTab/></div>
             <div className='w-full justify-center flex-col flex items-center' >

@@ -10,7 +10,7 @@ export const metadata = {
 
 export default function Home() {
   return (
-    <main className="flex flex-row min-h-screen  items-center  justify-center p-24">
+    <main className="flex flex-row min-h-screen  items-center  justify-center sm:p-1 lg:p-24">
       <div className='group relative flex flex-col items-center justify-center'>
         <Image
           src='/firehead.png'
