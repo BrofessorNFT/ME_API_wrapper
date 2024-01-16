@@ -22,8 +22,8 @@ export default function RootLayout({ children }) {
         >
           <NavContainer/>
           {children}
-          <Analytics />
         </ThemeProvider>
+          <Analytics />
         
         </body>
     </html>
