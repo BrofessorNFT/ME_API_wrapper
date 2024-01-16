@@ -2,6 +2,7 @@ import { Inter } from 'next/font/google'
 import './globals.css'
 import NavContainer from '@/components/navcontainer';
 import { ThemeProvider } from "@/components/theme-provider"
+import { Analytics } from '@vercel/analytics/react';
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
@@ -21,7 +22,9 @@ export default function RootLayout({ children }) {
         >
           <NavContainer/>
           {children}
+          <Analytics />
         </ThemeProvider>
+        
         </body>
     </html>
   )
